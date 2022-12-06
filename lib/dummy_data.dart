@@ -507,7 +507,7 @@ const DUMMY_MEALS = const [
     id: 'm13', 
     categories: [
       'c11', 
-      'c12'
+      'c13'
     ], 
     title: 'Mean Green Smoothie', 
     imageUrl: 'https://www.tropicana.ca/sites/tropicana.ca/files/14MeanGreenApple-Smoothie.jpg', 
@@ -556,7 +556,7 @@ const DUMMY_MEALS = const [
       'Fry till golden brown!',
     ], 
     duration: 5,
-    complexity: Complexity.Hard, 
+    complexity: Complexity.Challenging, 
     affordability: Affordability.Affordable, 
     isGlutenFree: true, 
     isLactoseFree: false, 
